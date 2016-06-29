@@ -1,0 +1,10 @@
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\Engineering\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\Engineering\bin\Debug\Engineering.pdb
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\Engineering\obj\Debug\Engineering.pdb
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\Engineering\bin\Debug\Engineering.exe
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\Engineering\obj\Debug\Engineering.exe
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\Engineering\Engineering\obj\Debug\Engineering.exe
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\Engineering\Engineering\obj\Debug\Engineering.pdb
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\Engineering\Engineering\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\Engineering\Engineering\bin\Debug\Engineering.exe
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\Engineering\Engineering\bin\Debug\Engineering.pdb
